@@ -14,7 +14,7 @@
 - o cliente poderá inserir saldo em sua conta, navegar pela variedade de filmes registrados na locadora, escolher o filme que quer e alugar, após isso também poderá devolver filmes; todas essas informações serão serializadas no arquivo clientes.ser;
 - o funcionário poderá bater o ponto do dia trabalhado e de acordo com os dias, seu rendimento irá aumentar, também poderá cadastrar e remover filmes no sistema, e sacar seu salário de acordo com os dias trabalhados;
 
-# ESTRUTURA DO CÓDIGO #
+## ESTRUTURA DO CÓDIGO
 
 * *a desenvolver...*
     - transferir todo o código para a interface gráfica do java swing (nao consegui, faltou tempo);
