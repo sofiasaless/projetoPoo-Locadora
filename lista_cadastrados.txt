@@ -1,0 +1,14 @@
+CLIENTES CADASTRADOS
+
+Cliente [Nome=Rubens, Id=rubPOO, Senha=poo2023, Saldo=4,07]
+Cliente [Nome=Sofia, Id=2004, Senha=sofia1234, Saldo=0,66]
+
+FUNCIONARIOS
+
+chave de acesso = 05m2023
+
+Funcionario [nome=widney, id=admin, senha=2023]
+Funcionario [nome=Rubens, id=rubAdmin, senha=poo2023]
+Funcionario [nome=NovoFuncionario, id=funcionario, senha=funcionario]
+Funcionario [nome=Luiza, id=2018, senha=luiza1234]
+Funcionario [nome=Sofia, id=SofiaAdmin, senha=sofia1234]
